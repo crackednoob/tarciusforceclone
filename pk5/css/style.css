@@ -60,11 +60,11 @@ body{
 }
 #header .navigation ul li a:hover{
     color: #007CEC;
-    -webkit-transition: 0.3s time;
-    -moz-transition: 0.3s time ;
-    -ms-transition: 0.3s time;
-    -o-transition: 0.3s time;
-    transition: 0.3s time;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
 }
 
 /* banner */
@@ -109,11 +109,11 @@ body{
 .btn-primary:hover{
     background: #ffffff;
     color: #007CEC;
-    -webkit-transition: 0.3s time;
-    -moz-transition: 0.3s time;
-    -ms-transition: 0.3s time;
-    -o-transition: 0.3s time;
-    transition: 0.3s time;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
 }
 
 /* services */
@@ -138,7 +138,7 @@ body{
     background: #007CEC;
     padding: 24px;
     float: left;
-    width: 44%;
+    width: 43%;
     color: #ffffff;
 }
 
@@ -173,11 +173,11 @@ body{
 .content-list .list-services .button a:hover{
     background: white;
     color: #007CEC;
-    -webkit-transition: 0.3s time;
-    -moz-transition: 0.3s time;
-    -ms-transition: 0.3s time;
-    -o-transition: 0.3s time;
-    transition: 0.3s time;
+    -webkit-transition: 0.3s ;
+    -moz-transition: 0.3s ;
+    -ms-transition: 0.3s ;
+    -o-transition: 0.3s ;
+    transition: 0.3s ;
 }
 
 /* subscibe */
@@ -224,11 +224,11 @@ body{
 #notification .right-content .btn-large:hover{
     color: #007CEC;
     background: #ffffff;
-    -webkit-transition-delay: 0.3s time;
-    -moz-transition-delay: 0.3s time ;
-    -ms-transition-delay: 0.3s time;
-    -o-transition-delay: 0.3s time;
-    transition-delay: 0.3s time;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
 }
 
 #footer{
