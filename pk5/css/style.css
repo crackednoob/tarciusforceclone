@@ -238,3 +238,55 @@ body{
     color: white;
     font-size: 16px;
 }
+
+/* Responsive */
+
+@media screen and (max-width: 1095px) {
+
+    .center{
+        width: auto;
+        padding: 0 20px;
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 826px){
+
+    #notification .left-content,
+    #notification .right-content{
+        float: none;
+        text-align: center;
+    }
+    #notification .right-content{
+        padding-top: 10px;
+    }
+
+    .content-list .list-services{
+        width: auto;
+        display: block;
+        float: none;
+        margin-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 721px) {
+
+    #header .navigation,
+    #header #logo{
+        float: none;
+        width: auto;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    #header #logo img{
+        margin: 0 auto;
+        display: table;
+    }
+    #header .navigation ul{
+        display: table;
+        margin: 0 auto;
+    }
+    #banner h1{
+        font-size: 40px;
+    }
+}
